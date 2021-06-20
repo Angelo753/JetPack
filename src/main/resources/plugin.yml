@@ -1,0 +1,5 @@
+name: JetPack
+version: @version@
+main: cz.angelo.jetpack.Main
+api-version: 1.16
+authors: [ Angelo753 ]
